@@ -1,7 +1,7 @@
 # PyTorch Implementation for Neural Graph Collaborative Filtering
 This is a PyTorch Implemenation for this paper: 
 
-Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng, and Tat-Seng Chua (2019). Neural Graph Collaborative Filtering
+Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng, and Tat-Seng Chua (2019). Neural Graph Collaborative Filtering. SIGIR 2019
 
 
 Original TensorFlow Implementation can be found [here](https://github.com/xiangwang1223/neural_graph_collaborative_filtering)
@@ -42,4 +42,4 @@ python main.py --dataset amazon-book --alg_type mf --regs [1e-5] --embed_size 64
 
 
 ## Dataset
-Dataset and Data files are the same as the original implementation. 
+Datasets and Data files are the same as thoese in [the original repository](https://github.com/xiangwang1223/neural_graph_collaborative_filtering). 
